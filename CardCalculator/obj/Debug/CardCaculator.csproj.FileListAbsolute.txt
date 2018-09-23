@@ -1,0 +1,7 @@
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\obj\Debug\CardCaculator.csprojAssemblyReference.cache
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\obj\Debug\CardCaculator.csproj.CoreCompileInputs.cache
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\bin\Debug\CardCaculator.exe.config
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\bin\Debug\CardCaculator.exe
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\bin\Debug\CardCaculator.pdb
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\obj\Debug\CardCaculator.exe
+C:\Users\Choki\source\repos\CardCaculator\CardCaculator\obj\Debug\CardCaculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\bin\Release\CardCaculator.exe.config
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\bin\Release\CardCaculator.exe
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\bin\Release\CardCaculator.pdb
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\obj\Release\CardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\obj\Release\CardCaculator.exe
+C:\Users\Choki\source\repos\CardCaculator\CardCalculator\obj\Release\CardCaculator.pdb
